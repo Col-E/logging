@@ -2,12 +2,6 @@
 
 This is a basic logging library that I use in my projects. 
 
-### Features
-
-* Support for multiple source files / classes
-* Managable compiler flags
-    * Wrappers for: _classpath, target-version, debug-information, verbosity_
-
 ### Examples
 
 See: [Recaf](https://github.com/Col-E/Recaf)
@@ -30,6 +24,12 @@ This project is hosted via JitPack.io. You can add this project to your maven pr
 	</dependency>
 </dependencies>
 ```
+
+### Building
+
+Pre-built: 
+
+* [releases](https://github.com/Col-E/logging/releases)
 
 Build-yourself: 
 
